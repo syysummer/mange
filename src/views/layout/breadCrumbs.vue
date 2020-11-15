@@ -32,5 +32,6 @@ export default {
 @import '@/assets/css/common.less'; 
   .breadcrumbs{
     .flexBox(flex-start, center);
+    cursor: pointer;
   }
 </style>
