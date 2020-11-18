@@ -14,6 +14,9 @@ yarn serve
 ```
 yarn build
 ```
-
+### 值得收藏的资料
+```
+[vue-pdf](https://github.com/goSunadeod/vue-pdf.js-demo)
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
